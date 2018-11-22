@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "941B3E95-A6F8-498A-86D5-B9EA575E7B26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42A114AE-475A-4D26-91C7-A00F79A83F2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2258484A-4F51-4802-A3F5-2C06E9354AED",
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "93769DF6-3515-4542-8388-4901FF112FD0"
+    },
+    {
+      "class": "group",
+      "id": "82714B2B-D318-4CA5-AA67-CAC5F619E2C6"
+    },
+    {
+      "class": "group",
+      "id": "88423C9E-6623-4EEA-833E-B07A71241580"
+    },
+    {
+      "class": "group",
+      "id": "D4E76CA3-63E6-4D8C-8252-8903B848A094"
+    }
+  ],
+  "name": "Keyboard Go – 4.7\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "988721FF-8F49-4FA7-8A2B-E0F6601D0062",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6A889FC3-72C4-42E8-9506-ED4FDF01E2F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D266A1A7-E72C-40F4-A427-9D7B65801263",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EFAA813-8DC9-44B0-8F6E-6A0740F3C914",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "450AE5BB-B321-459F-845F-01CC7EA99219",
+    "height": 44,
+    "width": 307,
+    "x": 32,
+    "y": 105
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "login/input_off",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4439FFC7-F77A-4A9C-87FA-BCFD49E2D160",
+      "overrideName": "0D5AAB7A-B8EF-44D1-A44A-9F0059224089_stringValue",
+      "value": "이메일주소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0316CB18-BCE8-4B2B-933E-B582A7F50EBA",
+      "overrideName": "0D5AAB7A-B8EF-44D1-A44A-9F0059224089_textStyle",
+      "value": "1882892B-C0C6-4E10-92DC-E402CBB461FB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FFC597D-561B-4BBB-AE9B-C698F506A8CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D7D304E2-2DCB-4EEB-8018-42E962B57BFC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C2CF788-93CA-404D-B410-5C3B7538B43B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BD0740A-A636-45B1-AF84-ABA6EFB1247D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5492E83B-3FB0-4E5E-AFF3-8F2A3D86C473",
+    "height": 42,
+    "width": 31,
+    "x": 94,
+    "y": 162
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "37273D9F-726F-4BCC-977E-1CDD8763EAF5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08772452-9867-4E64-8F19-53879E500475"
+    }
+  ],
+  "name": "Voice Input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DBA4716-A594-40B5-B9CE-BA1C88776EE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

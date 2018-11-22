@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B40B39A-26B3-4F51-B35B-AC9AAB3F75F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8656704E-0E21-49B3-AD73-F63C3A92DA86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B9B6F5D-2042-4904-8685-836F25AE8175",
+    "height": 19,
+    "width": 155,
+    "x": 112,
+    "y": 531
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0D151C18-38DA-47DB-8858-A81616BD35FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB3586C8-5AE0-498D-88CE-7E37C236802F"
+    }
+  ],
+  "name": "login_facebook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25A2BF8D-7D0A-475D-B080-B43040A00459",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

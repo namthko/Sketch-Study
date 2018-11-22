@@ -1,0 +1,180 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D4E76CA3-63E6-4D8C-8252-8903B848A094",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF0E05F7-9E8F-4510-893A-AE0597CF28D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2C4BA2F-DDA7-4F82-872D-810E36278FDE",
+    "height": 187,
+    "width": 369,
+    "x": 3,
+    "y": 14.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D1EFFB5A-E197-44AE-9D9E-55D63521A6CB"
+    },
+    {
+      "class": "text",
+      "id": "92CD071E-5684-495C-8C34-A655FCEED10B"
+    },
+    {
+      "class": "text",
+      "id": "B3019922-9ABD-453C-A71A-FBC7C9AD56F2"
+    },
+    {
+      "class": "text",
+      "id": "D7C8970F-A5A0-4D4E-82B0-5F7553A76CB7"
+    },
+    {
+      "class": "text",
+      "id": "D09E3198-33D3-4EF0-B9B8-ED73C25BB1A5"
+    },
+    {
+      "class": "text",
+      "id": "FD6111BC-456F-4282-A597-92DFE77E78E1"
+    },
+    {
+      "class": "text",
+      "id": "D60BF85C-642D-408F-A4EB-0640060DBF9B"
+    },
+    {
+      "class": "text",
+      "id": "235EBE37-25C8-417A-AFDE-B9187DB2CF6F"
+    },
+    {
+      "class": "text",
+      "id": "804F53B3-E3C0-4DC2-9F1B-60570B34ADF8"
+    },
+    {
+      "class": "text",
+      "id": "D786BE43-77A8-430B-AA6E-ADEF82AE864D"
+    },
+    {
+      "class": "text",
+      "id": "0976AAA6-26C3-498E-833A-20AC499E5978"
+    },
+    {
+      "class": "text",
+      "id": "FB36AC32-AAFD-4E00-9C00-F2563DE433D3"
+    },
+    {
+      "class": "text",
+      "id": "34471957-D004-4454-9BBC-C3B91AC538A0"
+    },
+    {
+      "class": "text",
+      "id": "496E9EA5-223A-4ACD-BD62-13126AD4368F"
+    },
+    {
+      "class": "text",
+      "id": "9BC54096-3C9B-4301-9DEB-E557DDCF78D8"
+    },
+    {
+      "class": "text",
+      "id": "E3E8B1E2-00B3-49B8-8D49-B20DDDAFA968"
+    },
+    {
+      "class": "text",
+      "id": "BE456E1F-5546-4CAB-B86F-9BD4B7767F74"
+    },
+    {
+      "class": "text",
+      "id": "71D78CBF-B1FB-4A4A-9295-6BA59F65E36C"
+    },
+    {
+      "class": "text",
+      "id": "06A136A9-6043-4875-98A1-0BB6A8022421"
+    },
+    {
+      "class": "text",
+      "id": "8216B9F2-41A1-4DEC-8798-829778FAF000"
+    },
+    {
+      "class": "text",
+      "id": "F3FE1461-B246-4F6F-81E8-DCCF89F71462"
+    },
+    {
+      "class": "text",
+      "id": "7341C914-68FD-46DF-B89B-483DB4FD9460"
+    },
+    {
+      "class": "text",
+      "id": "933F1ABC-259F-48DB-9EC9-14204E5E3ED5"
+    },
+    {
+      "class": "text",
+      "id": "5305EEDF-3C07-4970-8D26-4879EEEBC1BB"
+    },
+    {
+      "class": "text",
+      "id": "52097BEF-FF7B-4A5F-A410-65569E7BFC66"
+    },
+    {
+      "class": "text",
+      "id": "EA95D383-D57B-47AA-B635-D90B50F00406"
+    },
+    {
+      "class": "text",
+      "id": "D86D9236-2D14-49B1-A533-BA8289F24C87"
+    },
+    {
+      "class": "text",
+      "id": "3AB8035C-9797-4784-8F3E-5CA03469105A"
+    },
+    {
+      "class": "text",
+      "id": "F44F4B78-0D0E-4362-8030-CAC2BBF3224A"
+    },
+    {
+      "class": "text",
+      "id": "DC46E234-6D7B-4FDA-A1D4-750336EA68B7"
+    }
+  ],
+  "name": "Keys",
+  "nameIsFixed": true,
+  "originalObjectID": "713FE82A-8F38-4601-AE2F-79B740EA8518",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B55E1536-90CD-4D18-BD9D-E6BEED9733B1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D7F48431-5713-4E0C-A169-ACAE471FFF2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

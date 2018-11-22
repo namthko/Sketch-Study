@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C68185D0-3861-4B78-A3D2-538703549711",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AD001D4-FE31-479C-898D-EE15425C94F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AD2E4D9-6472-4B61-AC31-AC65816F243B",
+    "height": 44,
+    "width": 343,
+    "x": 16,
+    "y": 195
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "login/input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF45E2E2-8065-429B-957F-7A9B1AF376FA",
+      "overrideName": "0D5AAB7A-B8EF-44D1-A44A-9F0059224089_textStyle",
+      "value": "5AC8E1E3-CFDD-4B3E-AADF-2900129BF95B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7C62E58-D544-47C1-91F6-BAB193F4967C",
+      "overrideName": "0D5AAB7A-B8EF-44D1-A44A-9F0059224089_stringValue",
+      "value": "이메일 주소"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35465876-C37A-40C7-81B1-510CAB4F9482",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D7D304E2-2DCB-4EEB-8018-42E962B57BFC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

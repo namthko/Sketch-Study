@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "60642649-C9DC-41BF-B627-5D1BE016219C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C9CD996-B156-483D-9E3B-FB0CB04BBDA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C534F78-2658-4D59-8826-C48F3C737952",
+    "height": 44,
+    "width": 307,
+    "x": 34,
+    "y": 298
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/phone",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27D3BCF3-0878-4DDC-95C5-A89B9E344BED",
+      "overrideName": "0F3B43C2-DE53-46F1-9547-127C4396AE7D_stringValue",
+      "value": "JP + 81"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "206F687F-A34E-4DD3-BEE4-DD00EBB71DED",
+      "overrideName": "C537CDF6-5726-485E-B518-AD7857039F16_textStyle",
+      "value": "1423C803-F98B-4C66-8C33-3DF2F4BF7066"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A25852FD-43B2-4DD3-87DC-AED02B577675",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4385718F-DB3D-45FC-9435-BE52E2042B44",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

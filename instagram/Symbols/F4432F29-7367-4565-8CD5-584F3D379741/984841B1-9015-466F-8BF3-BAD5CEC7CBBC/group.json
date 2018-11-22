@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "984841B1-9015-466F-8BF3-BAD5CEC7CBBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "538E559B-B973-4A0B-B853-0A1B8DBF013B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4CBFFB2-E9C2-46E3-8E28-72A31CE88DBA",
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BD797D20-3AB9-49AF-894A-8D7B195FF951"
+    },
+    {
+      "class": "group",
+      "id": "EBF1BC99-6BB1-4DC1-AF2F-13B6044EEBB6"
+    },
+    {
+      "class": "group",
+      "id": "EBB18061-B5D3-4E11-9270-28602A3C6E14"
+    },
+    {
+      "class": "group",
+      "id": "3AD6E094-5B96-442A-AC48-7B31392EE2D0"
+    }
+  ],
+  "name": "Keyboard Phone – 4.7\"",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1F3ADF1-2DE6-4701-951E-54ED1C6E51BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

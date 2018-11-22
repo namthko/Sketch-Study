@@ -1,0 +1,145 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D3DB67D-1D96-4901-AB8D-CBD0582FB0F0",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DEAB8913-5EC5-468D-844C-14BF64F040E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86EC6CEB-9782-404D-9C0D-CB9CF3140E0F",
+    "height": 17.33333333333334,
+    "width": 6.961325966850822,
+    "x": 73.59116022099448,
+    "y": 15.40740740740741
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shape",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.97602613534167604, 0.64392270749663794}",
+      "curveMode": 4,
+      "curveTo": "{0.99409460648541159, 0.49444134100738191}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.99409460648541159, 0.49444134100738191}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.61710944610639185, 1.0239383723658968}",
+      "curveMode": 3,
+      "curveTo": "{0.91086517832105618, 0.76888693431690935}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.80629696749373758, 0.85965524021081374}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.041245141608218093, 0.66748843577548256}",
+      "curveMode": 3,
+      "curveTo": "{0.2427814138367437, 1.0760281459760452}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.07775331879769487, 0.83865100413619131}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.12222955545919693, 0.12090259214022794}",
+      "curveMode": 3,
+      "curveTo": "{-0.00073415766377929448, 0.43408160685217334}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.048770182958535607, 0.30801959765866371}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.88834090773237306, 0.013740736139301142}",
+      "curveMode": 2,
+      "curveTo": "{0.30618457841577823, -0.011746111292710321}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.59335880869799695, 0.00082349688086612272}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99409460648541159, 0.49444134100738191}",
+      "curveMode": 4,
+      "curveTo": "{1.031744067850525, 0.18340300192325107}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.99409460648541159, 0.49444134100738191}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0B577CBA-A646-44CD-BFE5-1AC725A63E0E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 19.6078431372549,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DE23D9B8-35E5-44AF-97DE-A69275F3C2B9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
