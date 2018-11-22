@@ -75,13 +75,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "82156F0F-11E2-425F-BD4F-4A7861C03559",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "236D7D87-C58B-4073-87B9-3F032F29D25E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
